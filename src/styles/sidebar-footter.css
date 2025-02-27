@@ -206,7 +206,8 @@ body{
 }
 
 .disclaimer-premium button:hover{
-    transform:scale(1.04)
+    transform:scale(1.04);
+    transition: all ease 0.1s;
 }
 
 #artistList {
@@ -220,15 +221,18 @@ body{
 
 .sidebar nav ul li a:hover{
     transform: scale(1.1);  
+    transition: all ease 0.1s;
 }
 
 .section-playlist__content .section-playlist__button:hover{
     transform: scale(1.1);
+    transition: all ease 0.1s;
 }
 
 
 .languages .languages__button:hover{
     transform: scale(1.1);
+    transition: all ease 0.1s;
 }
 
 

@@ -328,11 +328,11 @@
 .play .fa-play {
   position: absolute;
   right: 10px;
-  top: 120px;
+  top: 225px;
   padding: 18px;
   background-color: #1db954;
   border-radius: 100%;
-  font-size: 14px;
+  font-size: 16px;
   opacity: 0;
   transition: all ease 0.4s;
 }
@@ -351,4 +351,3 @@
   padding: 20px 40px;
 }
 /* FIM CARD ARTISTA */
-
