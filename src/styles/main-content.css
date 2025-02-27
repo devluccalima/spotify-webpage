@@ -102,10 +102,12 @@
 .header__login .subscribe:hover{
   transform: scale(1.1);
   color: var(--text-base-light);
+  transition: all ease 0.1s;
 }
 
 .header__login .login:hover{
   transform: scale(1.1);
+  transition: all ease 0.1s;
 }
 
 .arrow-left:hover, .arrow-right:hover{
